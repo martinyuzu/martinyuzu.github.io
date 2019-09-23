@@ -7,9 +7,11 @@ author:     MartinYu
 header-img: img/post-bg-farbit.jpg
 catalog: true
 tags:
-    - iOS
-    - Apple
-    - Iphone
+    - 手环
+    - 手表
+    - 智能
+    - Fitbit
+    - 可穿戴设备
 ---
 
 据[路透社报道](https://www.reuters.com/article/us-fitbit-m-a-exclusive-idUSKBN1W525R)，曾经的可穿戴设备巨头 Fitbit 正在与投资银行接触，探讨出售公司的可能性。这几年 Fitbit 尝试从健身追踪设备向智能手表转型，但却不太顺利。
