@@ -102,5 +102,14 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
+    },{
+        title: "软件哪些事儿",
+        href: "https://liuyandong.com/"
+    },{
+        title: "老钱文集",
+        href: "http://lao-qian.hxwk.org/"
+    },{
+        title: "端点星",
+        href: "https://terminus2049.github.io/"
     }
 ]
